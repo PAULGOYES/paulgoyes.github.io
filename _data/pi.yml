@@ -4,10 +4,10 @@
 
 # EXAMPLE -- replace or delete
 - education:
-    - "(2026) Ph.D. Physics, Universidad Industrial de Santander"
+    - "(2026) Ph.D. Computer Science, Universidad Industrial de Santander"
     - "(2018) M.Sc Geophysics, Пермский государственный университет"
-    - "(2014) B.S. Physics, Universidad Industrial de Santander"
+    - "(2014) B.S. Geology, Universidad Industrial de Santander"
   educationshort:
-    - "(2026) Ph.D. Physics, Universidad Industrial de Santander"
+    - "(2026) Ph.D. Computer Science, Universidad Industrial de Santander"
     - "(2018) M.Sc Geophysics, Пермский государственный университет"
-    - "(2014) B.S. Physics, Universidad Industrial de Santander"
+    - "(2014) B.S. Geology, Universidad Industrial de Santander"
