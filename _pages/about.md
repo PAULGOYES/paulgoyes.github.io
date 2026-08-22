@@ -33,7 +33,7 @@ permalink: /about/
 
 {% if site.data.grants %}
 <div class="section-card">
-<h3>Grants</h3>
+<h3>Research Projects</h3>
 <ul>
 {% for grant in site.data.grants %}
 <li>{{ grant.name }}</li>
