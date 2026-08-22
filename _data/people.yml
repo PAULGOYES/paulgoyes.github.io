@@ -1,31 +1,48 @@
 # Students and mentees, shown on the About page.
 # Each entry needs: name, location, degree, year
-- name: Albert Hibbs
-  location: Caltech
-  degree: Ph.D.
-  year: 1955
 
-- name: George Zweig
-  location: Caltech
-  degree: Ph.D.
-  year: 1964
+- name: Daniela Quintero Madariaga
+  location: Universidad Industrial de Santander
+  degree: Geology
+  year: 2025
+- name: Gabriel Moreno Sánchez
+  location: Universidad Industrial de Santander
+  degree: Geology
+  year: 2024
+- name: Álvaro José Ascanio Sánchez
+  location: Universidad Industrial de Santander
+  degree: Geology
+  year: 2024
+- name: Sergio Hernando Sánchez Ospina
+  location: Universidad Industrial de Santander
+  degree: MSc Engineering – Water Resources
+  year: 2023
+- name: Geraldine Andrea Ariza Serrano
+  location: Universidad Industrial de Santander
+  degree: MSc Geophysics
+  year: 2023
+- name: María Paula Bohórquez Díaz
+  location: Universidad Industrial de Santander
+  degree: Geology
+  year: 2022
+- name: Ana Gabriela Mantilla Dulcey
+  location: Universidad Industrial de Santander
+  degree: Geology
+  year: 2022
+- name: Nicolás Córdoba Castillo
+  location: Universidad Industrial de Santander
+  degree: MSc Geophysics
+  year: 2022
+- name: Bryan Daniel Alvarez Castillo
+  location: Universidad Industrial de Santander
+  degree: Systems Engineering
+  year: 2021
+- name: Mateo Acuña Uribe
+  location: Universidad Industrial de Santander
+  degree: Geology
+  year: 2020
+- name: María Camila Pico Forero
+  location: Universidad Industrial de Santander
+  degree: Geology
+  year: 2020
 
-- name: Giovanni Rossi Lomanitz
-  location: Cornell
-  degree: Ph.D.
-  year: 1951
-
-- name: Thomas Curtright
-  location: Caltech
-  degree: Ph.D.
-  year: 1977
-
-- name: William Frazer
-  location: Caltech
-  degree: Ph.D.
-  year: 1958
-
-- name: Robert Hellwarth
-  location: Caltech
-  degree: Ph.D.
-  year: 1956
