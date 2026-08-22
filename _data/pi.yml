@@ -3,7 +3,7 @@
 # Delete this file if you only need the basics.
 
 # EXAMPLE -- replace or delete
-  education:
+- education:
     - "(in progress) Ph.D. Computer Science, Universidad Industrial de Santander"
     - "(2018) M.Sc. Geology/Geophysics, Perm State University, Russia"
     - "(2016) Specialization in Environmental Geotechnics, Universidad de Santander"
