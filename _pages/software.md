@@ -14,7 +14,7 @@ permalink: /software/
 <li><strong>Platform:</strong> Linux, Windows</li>
 <li><strong>Environment:</strong> Python</li>
 <li><strong>Focus areas:</strong> Deep learning, geophysical exploration, seismic data reconstruction</li>
-<li><strong>Registration:</strong> Contract/Registry No. 13-106-176, Universidad Industrial de Santander (2025)</li>
+<li><strong>Registration:</strong> Contrato/Registro No. 13-106-176, Universidad Industrial de Santander (2025)</li>
 </ul>
 <!-- <p><a href="PENDIENTE_URL_REPOSITORIO" target="_blank">View repository</a></p> -->
 </div>
