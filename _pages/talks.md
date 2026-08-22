@@ -1,3 +1,12 @@
+---
+title: "Talks"
+layout: gridlay
+sitemap: false
+permalink: /talks/
+---
+
+## Talks
+
 @incollection{goyes2014semanageologia,
   author = {Goyes-Pe{\~n}afiel, Paul},
   title = {Estudio de la topograf{\'i}a din{\'a}mica en la placa sudamericana debido a la subducci{\'o}n de la placa Nazca},
