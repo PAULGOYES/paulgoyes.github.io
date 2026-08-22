@@ -3,11 +3,12 @@
 # Delete this file if you only need the basics.
 
 # EXAMPLE -- replace or delete
-- education:
-    - "(2026) Ph.D. Computer Science, Universidad Industrial de Santander"
-    - "(2018) M.Sc Geophysics, Пермский государственный университет"
+  education:
+    - "(in progress) Ph.D. Computer Science, Universidad Industrial de Santander"
+    - "(2018) M.Sc. Geology/Geophysics, Perm State University, Russia"
+    - "(2016) Specialization in Environmental Geotechnics, Universidad de Santander"
     - "(2014) B.S. Geology, Universidad Industrial de Santander"
   educationshort:
-    - "(2026) Ph.D. Computer Science, Universidad Industrial de Santander"
-    - "(2018) M.Sc Geophysics, Пермский государственный университет"
-    - "(2014) B.S. Geology, Universidad Industrial de Santander"
+    - "(in progress) Ph.D. Computer Science, UIS"
+    - "(2018) M.Sc. Geology/Geophysics, Perm State University"
+    - "(2014) B.S. Geology, UIS"
