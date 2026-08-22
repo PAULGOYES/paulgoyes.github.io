@@ -9,12 +9,10 @@ permalink: /
 <p class="home-hero-sub">{{ site.title }}, {{ site.institution }}</p>
 
 <div class="chip-container" markdown="0">
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Quantum Electrodynamics</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Path Integrals</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Superfluidity</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Parton Model</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Quantum Computing</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Nanotechnology</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Compressive Sensing</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Inverse Theory</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Geophysical Modeling</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Seismic Data Reconstruction</a>
 </div>
 
 Geophysics combines physics, mathematics, and computational methods to study the Earth's subsurface using indirect measurements such as seismic, gravimetric, and electromagnetic data.
