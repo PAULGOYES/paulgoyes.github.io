@@ -36,7 +36,7 @@ permalink: /team/
 </div>
 
 {% if site.data.team_members.size > 0 %}
-## Current Students and Postdocs
+## Current Students
 
 <div class="team-grid">
 {% for member in site.data.team_members %}
@@ -55,6 +55,7 @@ permalink: /team/
 </div>
 {% endif %}
 
+{% comment %}
 {% if site.data.alumni.size > 0 %}
 ## Alumni
 
@@ -75,6 +76,7 @@ permalink: /team/
 </table>
 </div>
 {% endif %}
+{% endcomment %}
 
 ## Administrative Support
 
