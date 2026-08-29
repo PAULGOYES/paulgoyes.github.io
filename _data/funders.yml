@@ -2,10 +2,14 @@
 # Each entry needs: image (filename in images/), url
 # Recommended logo size: max-height 80px
 
-# EXAMPLE -- replace or delete
 - url: https://minciencias.gov.co/
   image: minciencias.png
 - url: https://www.anh.gov.co/
   image: anh.png
 - url: https://www.uis.edu.co/
   image: uis.png
+- url: https://www.ecopetrol.com.co/wps/portal/
+  image: Ecopetrol.png
+- url: https://washu.edu
+  image: WSL.png
+  
