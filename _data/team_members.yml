@@ -3,17 +3,17 @@
 # Optional: email, website, scholar, github, researchgate, cv
 # Photos go in images/ or images/team/
 
-- name: George Zweig
-  photo: team/george-zweig.svg
-  info: PhD Student, Quark Model
+- name: Daniela Quintero Madariaga
+  photo: team/daniela-quintero.jpg
+  info: --------
 
-- name: Albert Hibbs
-  photo: team/albert-hibbs.svg
-  info: PhD Student, Quantum Mechanics
+- name: María Paula Bohórquez Díaz
+  photo: team/maria-paula-bohorquez.jpg
+  info: --------
 
-- name: Thomas Curtright
-  photo: team/thomas-curtright.svg
-  info: PhD Student, Quantum Field Theory
+- name: Juan Sebastián Vesga Figueroa
+  photo: team/juan-vesga.jpg
+  info: Undergraduate Thesis Student, Geophysics
 
 - name: "This could be you!"
   photo: rock.jpg
