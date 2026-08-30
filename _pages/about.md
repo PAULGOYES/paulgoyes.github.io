@@ -56,9 +56,15 @@ permalink: /about/
 {% if site.data.people %}
 <div class="section-card">
 <h3>Students and Mentoring</h3>
-<ul>
+<ul style="list-style: none; padding-left: 0;">
 {% for student in site.data.people %}
-<li><strong>{{ student.name }}</strong> — {{ student.title }} ({{ student.degree }}, {{ student.year }}) {% if student.thesis_url %}<a href="{{ student.thesis_url }}" target="_blank">View thesis</a>{% endif %}</li>
+<li style="margin-bottom: 1.4rem; padding-bottom: 1.2rem; border-bottom: 1px solid rgba(0,0,0,0.08);">
+<strong>{{ student.name }}</strong> — {{ student.title }} ({{ student.degree }}, {{ student.year }})
+{% if student.thesis_url %}
+<br>
+<a href="{{ student.thesis_url }}" target="_blank" style="display: inline-block; margin-top: 6px; padding: 4px 12px; font-size: 0.82rem; background: var(--accent-color, #1a7a6d); color: white; border-radius: 5px; text-decoration: none;">View Thesis</a>
+{% endif %}
+</li>
 {% endfor %}
 </ul>
 </div>
