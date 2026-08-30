@@ -47,6 +47,7 @@
   degree: MSc Geophysics
   year: 2022
   thesis_url: "https://doi.org/10.1190/tle44090705.1"
+  link_label: "View Article"
 
 - name: "Bryan Daniel Alvarez Castillo"
   title: "Automatic detection of geological fractures and faults from image segmentation using deep convolutional networks applied to seismic cubes"
