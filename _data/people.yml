@@ -1,48 +1,61 @@
 # Students and mentees, shown on the About page.
 # Each entry needs: name, location, degree, year
-
-- name: Daniela Quintero Madariaga
-  location: Universidad Industrial de Santander
+- name: "Daniela Quintero Madariaga"
+  title: "Multiphysics integration for static shift correction in electrical methods and uncertainty reduction in subsurface models"
   degree: Geology
   year: 2025
-- name: Gabriel Moreno Sánchez
-  location: Universidad Industrial de Santander
+  thesis_url: "https://noesis.uis.edu.co/handle/20.500.14071/45404"
+
+- name: "Gabriel Moreno Sánchez"
+  title: "3D gravity inversion with adaptive initialization and sequential regularization: a case study in Cerro Machín geothermal area"
   degree: Geology
   year: 2024
-- name: Álvaro José Ascanio Sánchez
-  location: Universidad Industrial de Santander
+  thesis_url: "https://noesis.uis.edu.co/handle/20.500.14071/46521"
+
+- name: "Álvaro José Ascanio Sánchez"
+  title: "Geological fault segmentation in noisy seismic images using convolutional neural networks"
   degree: Geology
   year: 2024
-- name: Sergio Hernando Sánchez Ospina
-  location: Universidad Industrial de Santander
-  degree: MSc Engineering – Water Resources
+  thesis_url: "https://noesis.uis.edu.co/handle/20.500.14071/45418"
+
+- name: "Sergio Hernando Sánchez Ospina"
+  title: "Susceptibility analysis due to mass movements as an input for the implementation of solid flow retaining barriers"
+  degree: "MSc Engineering – Water Resources, Universidad Nacional de Colombia"
   year: 2023
-- name: Geraldine Andrea Ariza Serrano
-  location: Universidad Industrial de Santander
+  thesis_url: "https://repositorio.unal.edu.co/handle/unal/86544"
+
+- name: "Geraldine Andrea Ariza Serrano"
+  title: "Generalization of post-stack seismic image enhancement through data augmentation using deep generative models"
   degree: MSc Geophysics
   year: 2023
-- name: María Paula Bohórquez Díaz
-  location: Universidad Industrial de Santander
+  thesis_url: "https://noesis.uis.edu.co/handle/20.500.14071/46648"
+
+- name: "María Paula Bohórquez Díaz and Britney Yeniett Hernández Fajardo"
+  title: "Groundwater exploration using electrical resistivity profiles in the upper members of the Rionegro Formation between the urban area of Málaga (Santander) and the Servitá River"
   degree: Geology
   year: 2022
-- name: Ana Gabriela Mantilla Dulcey
-  location: Universidad Industrial de Santander
+  thesis_url: "https://noesis.uis.edu.co/handle/20.500.14071/14292"
+
+- name: "Ana Gabriela Mantilla Dulcey"
+  title: "Prediction of the occurrence of porphyry-type mineral deposits using machine learning techniques"
   degree: Geology
   year: 2022
-- name: Nicolás Córdoba Castillo
-  location: Universidad Industrial de Santander
+  thesis_url: "https://noesis.uis.edu.co/handle/20.500.14071/12289"
+
+- name: "Nicolás Córdoba Castillo"
+  title: "Reservoir porosity estimation from post-stack seismic data using a deep learning model constrained by well-porosity: a near-field application"
   degree: MSc Geophysics
   year: 2022
-- name: Bryan Daniel Alvarez Castillo
-  location: Universidad Industrial de Santander
+  thesis_url: "https://doi.org/10.1190/tle44090705.1"
+
+- name: "Bryan Daniel Alvarez Castillo"
+  title: "Automatic detection of geological fractures and faults from image segmentation using deep convolutional networks applied to seismic cubes"
   degree: Systems Engineering
   year: 2021
-- name: Mateo Acuña Uribe
-  location: Universidad Industrial de Santander
-  degree: Geology
-  year: 2020
-- name: María Camila Pico Forero
-  location: Universidad Industrial de Santander
-  degree: Geology
-  year: 2020
+  thesis_url: "https://noesis.uis.edu.co/handle/20.500.14071/9810"
 
+- name: "Mateo Acuña Uribe and María Camila Pico Forero"
+  title: "Seismic attributes application as a tool for the identification of geological faults in a field of the Middle Magdalena Basin"
+  degree: Geology
+  year: 2020
+  thesis_url: "https://noesis.uis.edu.co/handle/20.500.14071/39758"
