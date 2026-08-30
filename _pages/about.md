@@ -58,7 +58,7 @@ permalink: /about/
 <h3>Students and Mentoring</h3>
 <ul>
 {% for student in site.data.people %}
-<li>{{ student.name }}, {{ student.location }} ({{ student.degree }}, {{ student.year }})</li>
+<li><strong>{{ student.name }}</strong> — {{ student.title }} ({{ student.degree }}, {{ student.year }}) {% if student.thesis_url %}<a href="{{ student.thesis_url }}" target="_blank">View thesis</a>{% endif %}</li>
 {% endfor %}
 </ul>
 </div>
