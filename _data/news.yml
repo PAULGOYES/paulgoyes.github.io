@@ -1,20 +1,19 @@
 # News items shown on the home page sidebar.
 # The 3 most recent are shown; all appear on /allnews.
 # Each entry needs: date, headline
-- date: 6 February, 1986
-  headline: "Appointed to the Rogers Commission investigating the Space Shuttle Challenger disaster"
 
-- date: 1 January, 1980
-  headline: "National Medal of Science awarded by President Carter"
+- date: 17 August, 2026
+  headline: "Presented the poster \"Depth-localized blocking and physics-guided stochastic deep priors for 3D gravity inversion and uncertainty quantification\" at IMAGE'26 (SEG/AAPG International Meeting for Applied Geoscience & Energy), Houston, USA"
 
-- date: 21 October, 1965
-  headline: "Awarded the Nobel Prize in Physics for contributions to quantum electrodynamics"
+- date: 8 June, 2026
+  headline: "Attended EAGE Annual Conference & Exhibition (EAGE'26), Aberdeen, UK"
 
-- date: 1 September, 1961
-  headline: "The Feynman Lectures on Physics begins publication"
+- date: 8 June, 2025
+  headline: "Presented the poster \"Enhancing Seismic Post-stack Reconstruction with Diffusion Models: Addressing Uncertainty and Structural Complexity\" at the IEEE Statistical Signal Processing Workshop, Edinburgh, UK"
+  
+- date: 13 March, 2023
+  headline: "Presented \"Divergence-based Regularization for End-to-End Sensing Matrix Optimization in Compressive Sampling Systems\" at SIGNAL 2023, Barcelona, Spain"
 
-- date: 1 June, 1959
-  headline: "Delivered 'There's Plenty of Room at the Bottom' talk at Caltech APS meeting"
+- date: 27 September, 2022
+  headline: "Presented \"Spatial-Resolution Enhancement in MASW Seismic Acquisition via Compressive Sensing\" at the SEG Near-Surface Modeling and Imaging Workshop, Muscat, Oman"
 
-- date: 1 January, 1951
-  headline: "Joined the faculty at California Institute of Technology"
