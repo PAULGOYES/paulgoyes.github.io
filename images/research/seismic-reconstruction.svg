@@ -1,19 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200">
   <rect width="400" height="200" fill="#f0ece4"/>
-  <g stroke="#5c5850" stroke-width="1.5" fill="none">
-    <path d="M30,100 q10,-30 20,0 t20,0 t20,0"/>
-  </g>
-  <g stroke="#e2ded6" stroke-width="1.5" fill="none" stroke-dasharray="3,4">
-    <path d="M90,100 q10,-30 20,0 t20,0"/>
-  </g>
-  <g stroke="#1a7a6d" stroke-width="1.5" fill="none">
-    <path d="M150,100 q10,-30 20,0 t20,0 t20,0 t20,0 t20,0"/>
-  </g>
-  <g stroke="#e2ded6" stroke-width="1.5" fill="none" stroke-dasharray="3,4">
-    <path d="M290,100 q10,-30 20,0 t20,0"/>
-  </g>
-  <g stroke="#5c5850" stroke-width="1.5" fill="none">
-    <path d="M350,100 q10,-30 20,0"/>
-  </g>
+  <text x="90" y="45" font-family="Georgia,serif" font-size="11" fill="#8a857c" text-anchor="middle">Incomplete</text>
+  <path d="M20,100 q10,-25 20,0 t20,0 M100,100 q10,-25 20,0 t20,0" stroke="#5c5850" stroke-width="2.5" fill="none"/>
+  <line x1="200" y1="60" x2="200" y2="140" stroke="#c4beb0" stroke-width="1.5" stroke-dasharray="4,4"/>
+  <path d="M215,100 l14,-14 M215,86 l14,14" stroke="#1a7a6d" stroke-width="2.5"/>
+  <text x="310" y="45" font-family="Georgia,serif" font-size="11" fill="#8a857c" text-anchor="middle">Reconstructed</text>
+  <path d="M250,100 q10,-25 20,0 t20,0 t20,0 t20,0 t20,0" stroke="#1a7a6d" stroke-width="2.5" fill="none"/>
   <text x="200" y="185" font-family="Georgia,serif" font-size="11" fill="#8a857c" text-anchor="middle">Seismic data reconstruction</text>
 </svg>
