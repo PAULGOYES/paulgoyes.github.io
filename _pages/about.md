@@ -62,7 +62,7 @@ permalink: /about/
 <strong>{{ student.name }}</strong> — {{ student.title }} ({{ student.degree }}, {{ student.year }})
 {% if student.thesis_url %}
 <br>
-<a href="{{ student.thesis_url }}" target="_blank" style="display: inline-block; margin-top: 6px; padding: 4px 12px; font-size: 0.82rem; background: var(--accent-color, #1a7a6d); color: white; border-radius: 5px; text-decoration: none;">View Thesis</a>
+<a href="{{ student.thesis_url }}" target="_blank" class="btn-pill btn-pdf" style="margin-top: 6px;">View Thesis</a>
 {% endif %}
 </li>
 {% endfor %}
