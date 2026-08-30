@@ -9,7 +9,7 @@ permalink: /research/
 <div class="research-card">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/inverse-theory.svg" class="research-thumb" alt="Inverse theory in geophysics">
 <div class="research-body">
-<h4 class="research-title">Computational Geosciences</h4>
+<h4 class="research-title">Inverse Theory and Applications in Geophysics</h4>
 <p class="research-desc">Development of physics-guided and data-driven inversion methods for geophysical problems, including magnetotelluric and multi-physics inversion (gravimetry, magnetometry) for subsurface characterization and geothermal exploration.</p>
 </div>
 </div>
@@ -30,7 +30,7 @@ permalink: /research/
 <div class="research-card">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/deep-learning.svg" class="research-thumb" alt="Deep learning in geophysics">
 <div class="research-body">
-<h4 class="research-title">Applied and Computational Geophysics</h4>
+<h4 class="research-title">Computational Geosciences</h4>
 <p class="research-desc">Application of machine learning and computational methods to geological problems including landslide susceptibility, mineral prospectivity mapping, and paleomagnetic data analysis.</p>
 </div>
 </div>
