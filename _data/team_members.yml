@@ -5,15 +5,15 @@
 
 - name: Daniela Quintero Madariaga
   photo: team/daniela-quintero.jpeg
-  info: Msc Student, Geophysics - Reinforcement learning for geophysical inversion
+  info: "Msc Student, Geophysics - Reinforcement learning for geophysical inversion"
 
 - name: María Paula Roa Archila
   photo: team/maria-roa.jpg
-  info: Undergraduate Thesis Student, Geology - Multiphysics Interpretation of Gravimetry, Magnetometry, and Magnetotellurics in Volcanic Geothermal Systems: A Case Study of the Cerro Machín Volcano Geothermal System
+  info: "Undergraduate Thesis Student, Geology - Multiphysics Interpretation of Gravimetry, Magnetometry, and Magnetotellurics in Volcanic Geothermal Systems: A Case Study of the Cerro Machín Volcano Geothermal System"
 
 - name: Juan Sebastián Vesga Figueroa
   photo: team/juan-vesga.jpg
-  info: Undergraduate Thesis Student, Geology
+  info: "Undergraduate Thesis Student, Geology"
 
 - name: "This could be you!"
   photo: rock.jpg
