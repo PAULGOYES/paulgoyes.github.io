@@ -2,7 +2,7 @@
 # STEP 1: Your Identity (required)
 # ============================================================
 name: "Paul Goyes-Peñafiel"
-title: "PhD Candidate in Computer Science"
+title: "PhD in Computer Science"
 institution: "Universidad Industrial de Santander"
 email: goyes.yesid@gmail.com
 photo: photoLinkedin.png  # place your photo in images/
@@ -24,7 +24,7 @@ links:
 # ============================================================
 accent_color: "#1a7a6d"      # theme color for links and buttons
 dark_mode: true              # show dark mode toggle in navbar
-description: "Academic webpage of Paul Goyes-Peñafiel, PhD Candidate in Computer Science, HDSP Research Group, Universidad Industrial de Santander"
+description: "Academic webpage of Paul Goyes-Peñafiel, PhD in Computer Science"
 baseurl: ""
 url: "https://paulgoyes.github.io"
 
